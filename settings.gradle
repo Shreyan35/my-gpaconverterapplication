@@ -1,0 +1,2 @@
+rootProject.name='Gpa Converter'
+include ':app'
